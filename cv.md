@@ -8,6 +8,6 @@
 
 * About Me:Teacher of technical disciplines,educable, stress-resistant and ociable.I lead an active lifestyle, i love badminton and computer games and other human joys.
 
-* Education: Master of Engineering Science, Research Engineer of Micro-nanoelectronics BSUIR
+* Education: Master of Engineering Science, Research Engineer of Micro-nanoelectronics BSUIR.
 
-* English - Intermediate
+* English - Intermediate.
