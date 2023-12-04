@@ -19,3 +19,7 @@ There is a great desire to learn new things.
 * JavaScript Basics
 * Git, GitHub
 
+## Languages:
+* English - preintermediate
+* Russian - Native
+* Belarus - Native
